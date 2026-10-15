@@ -200,6 +200,8 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [Spaceflight News API](https://spaceflightnewsapi.net/) - A free to use API with space-related news articles that application developers can use. As it is maintained by [The Space Devs](https://thespacedevs.com/), news and support are provided on their [Discord server](https://discord.gg/wxEGcWXbsD).
 
+* [Calder Brief](https://calder-brief.pages.dev/space-hub) - Space news and analysis from Calder Brief, an independent tech news publication.
+
 ## Spacecraft
 
 ### Full Satellites
